@@ -1,0 +1,17 @@
+.video-container {
+  width: var(--w);
+  height: var(--h);
+  background-color: #3a3a3e;
+  position: relative;
+}
+
+video {
+  height: 100%;
+  width: 100%;
+}
+
+.remove-video-item-button {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
